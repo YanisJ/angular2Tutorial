@@ -1,5 +1,6 @@
-# First Angular Component
+# THE HERO EDITOR
 
-这是一个 ng2 的 hello world，用以下命令运行：
+官网教程第一步，连接如下：
+[https://angular.io/docs/ts/latest/tutorial/toh-pt1.html](https://angular.io/docs/ts/latest/tutorial/toh-pt1.html)
 
-  npm start
+
